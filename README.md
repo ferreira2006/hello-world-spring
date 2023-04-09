@@ -1,4 +1,6 @@
 # hello-world-spring
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
 Quebrando o gelo com o Spring
 
 Como gerar uma aplicação web com spring initializr 
